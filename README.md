@@ -14,6 +14,17 @@ During my Master's thesis and my position as a Research Assistant at the Univers
 
 This project presents an end-to-end workflow for analyzing Xenium spatial transcriptomics data from 10X Genomics, integrating histology-guided annotation, spatial coordinate transformation, and cell–cell communication analysis.
 
+
+## General Workflow
+
+1. Quality control and preprocessing of spatial transcriptomics data.
+2. Cell type annotation using established bioinformatics approaches.
+3. Integration of histological information with molecular data.
+4. Spatial analysis of cellular organization.
+5. Investigation of cell–cell interactions.
+6. Statistical evaluation and visualization of results.
+
+
 ### Areas of work
 
 - Spatial transcriptomics
