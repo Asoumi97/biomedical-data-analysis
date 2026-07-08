@@ -55,7 +55,7 @@ The workflow combines multiple annotation strategies (RCTD, marker-based annotat
 - SpaceXR
 
 ### Image Analysis
-- QuPath
+- QuPath (H&E histology annotation and ROI mapping)
 
 ### Data Analysis
 - Pandas
