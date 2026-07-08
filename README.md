@@ -16,7 +16,7 @@ The projects focus on spatial transcriptomics, statistical analysis, data visual
 
 ## Xenium-Based Spatial Transcriptomics Workflow for Cell–Cell Interaction Analysis
 
-This project presents an end-to-end workflow for analyzing Xenium spatial transcriptomics data, integrating histology-guided annotation, spatial coordinate transformation, and cell–cell communication analysis.
+This project presents an end-to-end workflow for analyzing Xenium spatial transcriptomics data from 10X Genomics, integrating histology-guided annotation, spatial coordinate transformation, and cell–cell communication analysis.
 
 ### Technologies
 
