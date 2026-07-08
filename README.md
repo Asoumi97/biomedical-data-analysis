@@ -35,12 +35,12 @@ This project presents an end-to-end workflow for analyzing Xenium spatial transc
 
 ## Technologies
 
-- Python
-- R
-- Spatial Transcriptomics
-- QuPath
-- Data Visualization
-- Statistical Analysis
+- **Python** (Pandas, NumPy, Scanpy)
+- **R** (Seurat, tidyverse, data.table)
+- **Spatial Transcriptomics** (Xenium, SpaceXR, SingleR)
+- **QuPath** (ROI Annotation, Histology Integration)
+- **Data Visualization** (ggplot2, Matplotlib, patchwork)
+- **Statistical Analysis** (dplyr, Matrix, SummarizedExperiment)
 
 
 > Due to ongoing research and an upcoming publication, the original code, figures and datasets cannot be shared.
