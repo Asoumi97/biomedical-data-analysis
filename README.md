@@ -16,31 +16,71 @@ The primary objective of these analyses was to investigate **cell–cell interac
 
 
 
-# Featured Project
+## Project Objective
 
-## Xenium-Based Spatial Transcriptomics Workflow for Cell–Cell Interaction Analysis
+The objective of this project was to develop a reproducible workflow for the analysis of Xenium-based spatial transcriptomics data by integrating molecular and histological information.
 
-This project presents an end-to-end workflow for analyzing Xenium spatial transcriptomics data from 10X Genomics, integrating histology-guided annotation, spatial coordinate transformation, and cell–cell communication analysis.
+The workflow combines multiple annotation strategies (RCTD, marker-based annotation, and SingleR), histology-guided tissue annotation using QuPath, and spatial neighborhood analysis to investigate **cell–cell interactions** within the tissue microenvironment.
 
+---
 
-## General Workflow
+## Workflow
 
-1. Quality control and preprocessing of spatial transcriptomics data.
-2. Cell type annotation using established bioinformatics approaches.
-3. Integration of histological information with molecular data.
-4. Spatial analysis of cellular organization.
-5. Investigation of cell–cell interactions.
-6. Statistical evaluation and visualization of results.
+1. Data preprocessing and quality control
+2. Cell type annotation
+   - RCTD
+   - Marker-based annotation
+   - SingleR
+   - Annotation merging
+3. Spatial visualization and distribution analysis
+4. Histological annotation and ROI mapping using QuPath
+5. Cell–cell communication analysis
+6. Statistical analysis and visualization
 
+---
 
 ## Technologies
 
-- **Python** (Pandas, NumPy, Scanpy)
-- **R** (Seurat, tidyverse, data.table)
-- **Spatial Transcriptomics** (Xenium, SpaceXR, SingleR)
-- **QuPath** (ROI Annotation, Histology Integration)
-- **Data Visualization** (ggplot2, Matplotlib, patchwork)
-- **Statistical Analysis** (dplyr, Matrix, SummarizedExperiment)
+### Programming
+- Python
+- R
+
+### Bioinformatics
+- Xenium
+- Scanpy
+- Squidpy
+- Seurat
+- SingleR
+- RCTD
+- SpaceXR
+
+### Image Analysis
+- QuPath
+
+### Data Analysis
+- Pandas
+- NumPy
+- data.table
+- dplyr
+- Matrix
+
+### Visualization
+- ggplot2
+- Matplotlib
+- patchwork
+
+---
+
+## Skills Demonstrated
+
+- Large-scale biomedical data processing (>500 GB datasets)
+- Spatial transcriptomics analysis
+- Cell type annotation
+- Histology-guided data integration
+- Cell–cell interaction analysis
+- Statistical analysis
+- Scientific programming in Python and R
+- Scientific visualization
 
 
 > Due to ongoing research and an upcoming publication, the original code, figures and datasets cannot be shared.
