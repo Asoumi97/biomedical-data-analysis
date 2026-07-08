@@ -25,16 +25,14 @@ This project presents an end-to-end workflow for analyzing Xenium spatial transc
 6. Statistical evaluation and visualization of results.
 
 
-### Areas of work
+## Technologies
 
-- Spatial transcriptomics
-- Bioinformatics
 - Python
 - R
-- Data preprocessing
-- Cell type annotation
-- Histology integration
-- Statistical analysis
-- Cell–cell communication analysis
+- Spatial Transcriptomics
+- QuPath
+- Data Visualization
+- Statistical Analysis
+
 
 > Due to ongoing research and an upcoming publication, the original code, figures and datasets cannot be shared.
