@@ -4,13 +4,9 @@
 
 This repository showcases bioinformatics and biomedical data analysis projects developed using Python and R.
 
-The projects focus on spatial transcriptomics, statistical analysis, data visualization, and reproducible computational workflows.
+During my Master's thesis and my position as a Research Assistant at the University Medical Center Mainz, I contributed to the development of computational workflows for spatial transcriptomics analysis.
 
-> **Confidentiality Notice**
->
-> This repository does not contain code or datasets from my professional work due to confidentiality agreements. All examples and future analyses are based on publicly available datasets or independently developed workflows.
 
----
 
 # Featured Project
 
@@ -18,12 +14,16 @@ The projects focus on spatial transcriptomics, statistical analysis, data visual
 
 This project presents an end-to-end workflow for analyzing Xenium spatial transcriptomics data from 10X Genomics, integrating histology-guided annotation, spatial coordinate transformation, and cell–cell communication analysis.
 
-### Technologies
+### Areas of work
 
+- Spatial transcriptomics
+- Bioinformatics
 - Python
 - R
-- Xenium
-- QuPath
-- Spatial Transcriptomics
-- Statistical Analysis
-- Data Visualization
+- Data preprocessing
+- Cell type annotation
+- Histology integration
+- Statistical analysis
+- Cell–cell communication analysis
+
+> Due to ongoing research and an upcoming publication, the original code, figures and datasets cannot be shared.
